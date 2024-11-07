@@ -11,3 +11,4 @@ def even_or_odd(number):
         return(f"The number {number} is even.")
     else:
         return(f"The number {number} is odd.")
+main()
